@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+footer{
+    padding: 0 137px 36px 137px;
+}
+.foot{
+    display: flex ;
+    justify-content: space-between;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+}
+.mail{
+    display: flex;
+    margin-bottom: 19px;
+
+}
+.adress{
+    display: flex;
+}
+.phone1{
+    display: flex;
+    margin-bottom: 19px;
+}
+.phone2{
+    display: flex;
+}
+.socialText{
+    margin-bottom: 12px;
+}
+.foot .decor{
+    font-size: 13px;
+    line-height: 16px;
+    color: #FFB800;
+    margin-right: 27px;
+}
+.foot p{
+    font-size: 13px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+.foot .notSee{
+    font-size: 13px;
+    line-height: 16px;
+    opacity: 0;
+    margin-right: 27px;
+}
+.socialImg a{
+    line-height: 28px;
+    vertical-align: middle;
+}
+.socialImg{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,259 @@
+@media(max-width: 1300px){    
+        .formBorder{
+            position: static;
+            margin-left: 0;
+        }     
+        .investigate{
+            padding: 72px 150px 0px 0;
+        } 
+}
+@media(max-width: 1180px){   
+    
+    header, main, footer{
+        width: 90%;
+        
+    }     
+}
+@media(max-width: 1110px){   
+    nav{
+        display: block;
+    }
+    nav li{
+        margin-left: 0;
+        margin-right: 40px;
+    }
+    nav ul{
+        margin-top: 20px;
+    }
+    main .maintop{
+    padding-bottom: 100px;
+    }
+    
+  
+@media(min-width:1000px) and (max-width: 1110px){
+    .datescomlike{
+        display: block;
+        padding-top: 40px;
+    }
+    .datescomlike .dates{
+        position: static;            
+    }
+    .comlike{
+        position: static;             
+    }
+    .comlike p{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .datescomlike{
+        position: absolute;
+        bottom: 20px;
+    } 
+    .inblock4Text{
+        padding-bottom: 65px;
+    } 
+}
+}
+@media(max-width: 1100px){   
+    
+    .investigate{
+        padding-right: 110px ;
+    }   
+    footer{
+        padding-left: 20px;
+        padding-right: 20px;
+    }    
+}
+@media(max-width: 1050px){      
+    .numStat {        
+        justify-content: space-between;
+        flex-wrap: wrap;
+        
+    }
+    .numStatImg{
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+
+    .stat{       
+       width: 48%;
+       margin-bottom: 40px;
+    }
+    
+}
+
+@media(max-width: 1000px){   
+    
+    .investigate{        
+        padding-right: 70px ;
+    } 
+    .blocks3{
+        flex-wrap: wrap;
+    }
+    .block3{
+        max-width: 100%;
+        padding-bottom: 40px;
+        margin-bottom: 20px;
+    }
+    .block4{
+        max-width: 49%;
+    }
+    
+}
+
+@media(max-width: 940px){   
+    
+    .investigate{        
+        padding-right: 70px ;
+    }  
+    main .maintop{
+        display: block;
+        padding-top: 70px;
+        text-align: center;
+    }   
+    .investigate{        
+        padding: 0;
+    }  
+    .formBorder{
+        width: 500px;
+        margin: auto;
+    }   
+    form{
+        margin: auto;
+    }
+    .block2{
+        max-width: 49%;
+    }
+}
+@media (max-width: 840px) {  
+    .block{             
+        width:48% ;
+    }
+    .blocks{
+        flex-wrap: wrap;
+    }      
+}
+@media (max-width: 810px) {  
+    nav li{
+        width: 20%;
+        margin-bottom: 10px;
+    }
+    nav ul{
+        flex-wrap: wrap;        
+    }
+    nav li:last-child a{       
+        padding: 10px 16px;
+        margin-left: -16px;        
+    }
+}
+@media (max-width: 740px) {  
+    .foot{
+        flex-wrap: wrap;       
+       
+    }
+    .investigate h1{
+        font-size: 35px;
+    }
+    .mail, .adress, .phones, .social {
+        margin-right: 15px;
+        margin-bottom: 19px;
+    }    
+    .ourReview p{
+        font-size: 20px;
+    }
+}
+@media (max-width: 620px) {  
+    .foot{
+       display: block;      
+       
+    }
+    .socialImg{
+        display: flex;
+        justify-content:unset;
+    }
+    .socialImg a{
+        margin-right: 20px;
+    }
+    .mail .decor,.adress .decor{
+        margin-right: 55px;
+    }
+    .blocks2{
+        display: block;
+        padding-bottom: 20px;
+    }
+    .block2{
+        max-width: 100%;
+    }
+    .numStat{
+        display: block;       
+    }
+    .numStat .num{
+        font-size: 38px;    
+        margin-bottom: 10px;
+    }
+    .numStat .text{
+        font-size: 20px;    
+    }
+    .stat {
+       width: 100%;
+        text-align: center;   
+        margin-bottom: 15px;     
+    }
+    .numStatImg{
+        padding-top: 30px;
+    }
+    h2{
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    h4{
+        font-size: 20px;
+        
+    }
+    .ourBlog{
+        padding-top: 30px;
+    }
+    main .maintop{
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+    .formBorder{
+        width:   80%;
+        margin: auto;
+        position: static;
+        
+        padding: 40px;
+    }
+    form{
+        width: 100%;        
+    }
+    .ourReview{
+        padding:  0 20px 61px 20px;
+    }
+}
+@media (max-width: 500px) {  
+    .block4{
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .inblock4Img2, .inblock4Img{
+        padding-top: 150px;
+    }
+    .block{
+       
+        text-align: center;
+        align-items: center;
+        width: 100%;
+    }
+}
+@media (max-width: 420px) {      
+    .formBorder{
+        width:  100%;       
+    }
+}
+@media (max-width: 395px) {      
+    nav ul{
+        display: block;
+    }
+}
+
